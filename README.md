@@ -1,6 +1,6 @@
 # Search algorithms:
 
-BFS, DFS,UCS and more..
+BFS, DFS,UCS, GBFS search algorithms using python.
 
 Search algoritms using python. The maze isn't coded by the author:akramhammam5.
 
